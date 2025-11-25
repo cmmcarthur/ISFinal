@@ -1,100 +1,100 @@
-Paris, France: | 4.5 | 2.0 | 5.0 | 3.5 | 5.0 |
-Dubai, United Arab Emirates: | 3.5 | 2.5 | 4.5 | 5.0 | 3.5 |
-Madrid, Spain: | 5.0 | 3.5 | 5.0 | 4.0 | 5.0 |
-Tokyo, Japan: | 5.0 | 3.0 | 5.0 | 5.0 | 4.0 |
-Amsterdam, Netherlands: | 5.0 | 2.5 | 4.5 | 4.5 | 5.0 |
-Berlin, Germany: | 5.0 | 3.5 | 5.0 | 4.0 | 5.0 |
-Rome, Italy: | 3.5 | 2.5 | 5.0 | 3.0 | 4.5 |
-New York City: | 4.5 | 2.0 | 5.0 | 3.5 | 5.0 |
-Barcelona, Spain: | 4.5 | 3.0 | 5.0 | 3.5 | 5.0 |
-London, United Kingdom: | 5.0 | 1.5 | 5.0 | 4.0 | 5.0 |
-Singapore: | 5.0 | 2.5 | 4.0 | 5.0 | 3.5 |
-Munich, Germany: | 5.0 | 2.5 | 4.5 | 5.0 | 4.5 |
-Milan, Italy: | 4.5 | 2.5 | 4.5 | 3.5 | 4.5 |
-Seoul, South Korea: | 5.0 | 3.5 | 5.0 | 5.0 | 4.0 |
-Dublin, Ireland: | 3.5 | 2.5 | 4.5 | 4.0 | 5.0 |
-Osaka, Japan: | 5.0 | 3.0 | 4.5 | 5.0 | 4.0 |
-Hong Kong: | 5.0 | 2.5 | 4.5 | 5.0 | 3.5 |
-Vienna, Austria: | 5.0 | 2.5 | 4.5 | 5.0 | 4.5 |
-Los Angeles: | 2.5 | 2.0 | 4.5 | 3.0 | 4.0 |
-Lisbon, Portugal: | 4.5 | 3.5 | 4.5 | 4.0 | 5.0 |
-Prague, Czech Republic: | 4.5 | 4.0 | 5.0 | 4.5 | 5.0 |
-Sydney, Australia: | 4.0 | 2.0 | 4.5 | 4.5 | 4.5 |
-Istanbul, Turkey: | 3.5 | 3.5 | 5.0 | 3.5 | 4.5 |
-Melbourne, Australia: | 4.5 | 2.5 | 4.5 | 4.5 | 4.5 |
-Orlando, Florida: | 2.0 | 2.5 | 4.0 | 3.5 | 3.5 |
-Frankfurt, Germany: | 5.0 | 2.5 | 4.0 | 4.5 | 4.0 |
-Kyoto, Japan: | 4.5 | 3.0 | 5.0 | 5.0 | 3.5 |
-Taipei, Taiwan: | 4.5 | 3.5 | 4.5 | 5.0 | 4.0 |
-Florence, Italy: | 3.5 | 2.5 | 5.0 | 3.5 | 4.5 |
-Toronto, Canada: | 4.5 | 2.5 | 4.5 | 4.5 | 4.5 |
-Athens, Greece: | 3.5 | 3.0 | 5.0 | 3.5 | 4.5 |
-Zurich, Switzerland: | 5.0 | 1.5 | 4.0 | 5.0 | 4.0 |
-Bangkok, Thailand: | 3.5 | 4.5 | 5.0 | 3.5 | 4.5 |
-Las Vegas: | 2.5 | 2.0 | 5.0 | 3.5 | 4.5 |
-Miami: | 3.0 | 2.0 | 4.5 | 3.0 | 4.5 |
-Kuala Lumpur, Malaysia: | 4.0 | 4.0 | 4.0 | 4.0 | 4.0 |
-Venice, Italy: | 2.5 | 1.5 | 5.0 | 3.0 | 3.5 |
-Abu Dhabi, United Arab Emirates: | 3.0 | 2.5 | 3.5 | 5.0 | 3.0 |
-Stockholm, Sweden: | 5.0 | 2.0 | 4.5 | 5.0 | 4.5 |
-Brussels, Belgium: | 4.5 | 2.5 | 4.0 | 3.5 | 4.5 |
-Tel Aviv, Israel: | 4.0 | 2.5 | 4.5 | 4.0 | 4.5 |
-San Francisco: | 3.5 | 1.5 | 4.5 | 3.0 | 4.0 |
-Shanghai, China: | 5.0 | 3.0 | 4.5 | 5.0 | 3.5 |
-Warsaw, Poland: | 4.5 | 3.5 | 4.0 | 4.5 | 4.5 |
-Guangzhou, China: | 4.5 | 3.5 | 4.0 | 4.5 | 3.5 |
-Copenhagen, Denmark: | 5.0 | 2.0 | 4.5 | 5.0 | 4.5 |
-Nice, France: | 3.5 | 2.0 | 4.0 | 4.0 | 4.0 |
-Washington, United States: | 4.0 | 2.0 | 4.5 | 3.5 | 4.0 |
-Budapest, Hungary: | 4.5 | 4.0 | 5.0 | 4.5 | 5.0 |
-Shenzhen, China: | 4.5 | 3.5 | 4.0 | 5.0 | 3.5 |
-Vancouver, Canada: | 4.0 | 2.0 | 4.0 | 4.5 | 4.0 |
-Palma de Mallorca, Spain: | 3.0 | 2.5 | 4.0 | 4.0 | 4.0 |
-Seville, Spain: | 3.5 | 3.5 | 4.5 | 4.0 | 4.5 |
-São Paulo, Brazil: | 3.5 | 3.0 | 4.5 | 2.5 | 4.5 |
-Valencia, Spain: | 4.0 | 3.5 | 4.5 | 4.5 | 4.5 |
-Mexico City, Mexico: | 3.5 | 3.5 | 5.0 | 2.5 | 4.5 |
-Antalya, Turkey: | 3.0 | 3.0 | 4.0 | 4.0 | 3.5 |
-Sapporo, Japan: | 4.0 | 3.0 | 4.0 | 5.0 | 3.5 |
-Beijing, China: | 5.0 | 3.0 | 5.0 | 4.5 | 3.5 |
-Busan, South Korea: | 4.5 | 3.5 | 4.0 | 5.0 | 3.5 |
-Fukuoka, Japan: | 4.5 | 3.5 | 4.0 | 5.0 | 4.0 |
-Edinburgh, United Kingdom: | 4.0 | 2.5 | 4.5 | 4.5 | 5.0 |
-Porto, Portugal: | 4.0 | 3.5 | 4.5 | 4.5 | 4.5 |
-Jerusalem, Israel: | 3.5 | 2.5 | 5.0 | 3.5 | 3.5 |
-Kraków, Poland: | 4.0 | 4.0 | 4.5 | 4.5 | 5.0 |
-Rio de Janeiro, Brazil: | 3.0 | 3.0 | 5.0 | 2.0 | 4.5 |
-Honolulu, Hawaii: | 2.5 | 1.5 | 4.5 | 4.0 | 4.0 |
-Montreal, Canada: | 4.5 | 2.5 | 4.5 | 4.5 | 4.5 |
-Macau: | 3.0 | 2.5 | 4.0 | 5.0 | 3.0 |
-Cancún, Mexico: | 2.5 | 2.5 | 4.0 | 3.5 | 4.0 |
-Marne-La-Vallée, France: | 3.0 | 1.5 | 3.0 | 4.0 | 2.5 |
-Doha, Qatar: | 3.0 | 2.0 | 3.5 | 5.0 | 3.0 |
-Sharjah, United Arab Emirates: | 2.5 | 2.5 | 3.0 | 5.0 | 2.5 |
-Rhodes, Greece: | 2.0 | 2.5 | 4.0 | 4.0 | 3.0 |
-Verona, Italy: | 3.0 | 2.5 | 4.5 | 4.0 | 3.5 |
-Bologna, Italy: | 4.0 | 3.0 | 4.5 | 4.0 | 4.5 |
-Thessaloniki, Greece: | 3.5 | 3.5 | 4.0 | 3.5 | 4.0 |
-Buenos Aires, Argentina: | 3.5 | 3.5 | 4.5 | 2.5 | 4.5 |
-Lima, Peru: | 2.5 | 3.0 | 4.0 | 2.5 | 4.0 |
-Phuket, Thailand: | 2.0 | 3.5 | 4.0 | 3.0 | 3.5 |
-Delhi, India: | 2.5 | 4.0 | 4.5 | 2.0 | 4.0 |
-Heraklion, Greece: | 2.5 | 2.5 | 4.0 | 4.0 | 3.5 |
-Tallinn, Estonia: | 4.0 | 3.0 | 4.0 | 4.5 | 4.0 |
-Pattaya-Chonburi, Thailand: | 2.0 | 3.5 | 4.0 | 3.0 | 3.5 |
-Ho Chi Minh City, Vietnam: | 3.0 | 4.5 | 4.5 | 3.5 | 4.0 |
-Playa Del Carmen, Mexico: | 2.0 | 2.5 | 3.5 | 3.0 | 3.5 |
-Johor Bahru, Malaysia: | 2.5 | 3.5 | 3.0 | 3.5 | 3.0 |
-Santiago, Chile: | 3.5 | 3.0 | 4.0 | 3.5 | 4.0 |
-Tbilisi, Georgia: | 3.0 | 4.0 | 4.0 | 4.0 | 4.0 |
-Riyadh, Saudi Arabia: | 2.5 | 2.5 | 3.5 | 4.5 | 2.5 |
-Marrakech, Morocco: | 2.0 | 3.0 | 4.5 | 3.0 | 3.5 |
-Vilnius, Lithuania: | 4.0 | 3.5 | 4.0 | 4.5 | 4.0 |
-Mugla, Turkey: | 2.0 | 3.0 | 3.5 | 4.0 | 3.0 |
-Zhuhai, China: | 3.5 | 3.5 | 3.5 | 5.0 | 3.0 |
-Mecca, Saudi Arabia: | 2.0 | 2.5 | 3.0 | 5.0 | 2.0 |
-Punta Cana, Dominican Republic: | 1.5 | 2.0 | 3.5 | 3.5 | 3.0 |
-Guilin, China: | 2.5 | 3.5 | 4.0 | 4.5 | 2.5 |
-Hanoi, Vietnam: | 2.5 | 4.5 | 4.5 | 3.5 | 4.0 |
-Cairo, Egypt: | 2.0 | 4.0 | 5.0 | 2.0 | 4.0 |
-Muscat, Oman: | 2.0 | 2.5 | 3.5 | 5.0 | 2.5 |
+Paris, France: | 4.5 | 2.0 | 5.0 | 3.5 | 4.5
+Dubai, United Arab Emirates: | 3.5 | 2.0 | 4.5 | 4.5 | 3.5
+Madrid, Spain: | 4.5 | 3.0 | 5.0 | 4.0 | 4.5
+Tokyo, Japan: | 5.0 | 2.5 | 5.0 | 5.0 | 4.0
+Amsterdam, Netherlands: | 5.0 | 2.5 | 4.5 | 4.5 | 4.5
+Berlin, Germany: | 5.0 | 3.0 | 5.0 | 4.0 | 5.0
+Rome, Italy: | 3.5 | 2.5 | 5.0 | 3.5 | 4.0
+New York City, United States: | 4.5 | 2.0 | 5.0 | 3.5 | 5.0
+Barcelona, Spain: | 4.5 | 3.0 | 5.0 | 3.5 | 4.5
+London, United Kingdom: | 5.0 | 1.5 | 5.0 | 4.0 | 4.5
+Singapore: | 5.0 | 2.0 | 4.0 | 5.0 | 3.5
+Munich, Germany: | 5.0 | 2.5 | 4.0 | 4.5 | 4.0
+Milan, Italy: | 4.0 | 2.5 | 4.5 | 3.5 | 4.0
+Seoul, South Korea: | 5.0 | 3.0 | 4.5 | 4.5 | 4.0
+Dublin, Ireland: | 3.5 | 2.0 | 4.0 | 4.0 | 4.5
+Osaka, Japan: | 5.0 | 3.0 | 4.0 | 5.0 | 3.5
+Hong Kong: | 5.0 | 2.0 | 4.0 | 4.5 | 3.5
+Vienna, Austria: | 5.0 | 2.5 | 4.5 | 5.0 | 4.0
+Los Angeles, United States: | 2.5 | 2.0 | 4.5 | 3.0 | 4.0
+Lisbon, Portugal: | 4.0 | 3.0 | 4.5 | 4.0 | 4.5
+Prague, Czech Republic: | 4.5 | 3.5 | 4.5 | 4.0 | 4.5
+Sydney, Australia: | 4.0 | 2.0 | 4.5 | 4.5 | 4.0
+Istanbul, Turkey: | 3.5 | 3.5 | 5.0 | 3.5 | 4.0
+Melbourne, Australia: | 4.0 | 2.5 | 4.5 | 4.5 | 4.0
+Orlando, Florida, United States: | 2.0 | 2.5 | 4.0 | 3.5 | 3.0
+Frankfurt, Germany: | 5.0 | 2.5 | 3.5 | 4.5 | 3.5
+Kyoto, Japan: | 4.5 | 2.5 | 4.5 | 5.0 | 3.5
+Taipei, Taiwan: | 5.0 | 3.5 | 4.5 | 5.0 | 4.0
+Florence, Italy: | 3.5 | 2.5 | 5.0 | 4.0 | 4.0
+Toronto, Canada: | 4.5 | 2.5 | 4.0 | 4.5 | 4.0
+Athens, Greece: | 3.5 | 3.0 | 5.0 | 3.5 | 4.0
+Zurich, Switzerland: | 5.0 | 1.5 | 3.5 | 5.0 | 3.5
+Bangkok, Thailand: | 3.5 | 4.0 | 4.5 | 3.5 | 4.0
+Las Vegas, United States: | 2.5 | 2.0 | 4.5 | 3.0 | 4.0
+Miami, United States: | 2.5 | 2.0 | 4.5 | 3.0 | 4.0
+Kuala Lumpur, Malaysia: | 3.5 | 3.5 | 4.0 | 4.0 | 3.5
+Venice, Italy: | 2.5 | 1.5 | 5.0 | 3.5 | 3.5
+Abu Dhabi, United Arab Emirates: | 3.0 | 2.0 | 3.5 | 4.5 | 3.0
+Stockholm, Sweden: | 5.0 | 2.0 | 4.0 | 4.5 | 4.0
+Brussels, Belgium: | 4.5 | 2.5 | 4.0 | 3.5 | 4.0
+Tel Aviv, Israel: | 3.5 | 2.0 | 4.5 | 3.5 | 4.0
+San Francisco, United States: | 3.5 | 1.5 | 4.5 | 3.0 | 4.0
+Shanghai, China: | 5.0 | 3.0 | 4.5 | 4.5 | 4.0
+Warsaw, Poland: | 4.5 | 3.5 | 4.0 | 4.0 | 4.0
+Guangzhou, China: | 4.5 | 3.5 | 4.0 | 4.0 | 3.5
+Copenhagen, Denmark: | 5.0 | 2.0 | 4.0 | 5.0 | 4.0
+Nice, France: | 3.5 | 2.0 | 4.0 | 4.0 | 3.5
+Washington, United States: | 3.5 | 2.0 | 4.5 | 3.5 | 4.0
+Budapest, Hungary: | 4.0 | 3.5 | 4.5 | 4.0 | 4.5
+Shenzhen, China: | 4.5 | 3.5 | 3.5 | 4.5 | 3.5
+Vancouver, Canada: | 4.0 | 2.0 | 4.0 | 4.5 | 3.5
+Palma de Mallorca, Spain: | 3.0 | 2.5 | 4.0 | 4.0 | 3.5
+Seville, Spain: | 3.5 | 3.0 | 4.5 | 4.0 | 4.0
+São Paulo, Brazil: | 3.0 | 3.0 | 4.5 | 2.5 | 4.0
+Valencia, Spain: | 4.0 | 3.0 | 4.0 | 4.0 | 4.0
+Mexico City, Mexico: | 3.0 | 3.5 | 4.5 | 2.5 | 4.0
+Antalya, Turkey: | 2.5 | 3.0 | 4.0 | 3.5 | 3.0
+Sapporo, Japan: | 4.0 | 3.0 | 3.5 | 5.0 | 3.0
+Beijing, China: | 5.0 | 3.0 | 4.5 | 4.0 | 3.5
+Busan, South Korea: | 4.0 | 3.0 | 3.5 | 4.5 | 3.5
+Fukuoka, Japan: | 4.5 | 3.0 | 3.5 | 5.0 | 3.5
+Edinburgh, United Kingdom: | 4.0 | 2.0 | 4.5 | 4.5 | 4.0
+Porto, Portugal: | 3.5 | 3.5 | 4.0 | 4.0 | 4.0
+Jerusalem, Israel: | 3.0 | 2.5 | 5.0 | 3.0 | 3.5
+Kraków, Poland: | 4.0 | 4.0 | 4.5 | 4.0 | 4.5
+Rio de Janeiro, Brazil: | 2.5 | 3.0 | 5.0 | 2.0 | 4.0
+Honolulu, Hawaii, United States: | 2.5 | 1.5 | 4.0 | 3.5 | 3.5
+Montreal, Canada: | 4.0 | 2.5 | 4.0 | 4.5 | 4.0
+Macau: | 3.0 | 2.5 | 3.5 | 4.5 | 2.5
+Cancún, Mexico: | 2.0 | 2.5 | 3.5 | 3.0 | 3.0
+Marne-La-Vallée, France: | 3.0 | 1.5 | 3.0 | 4.0 | 2.0
+Doha, Qatar: | 3.0 | 2.0 | 3.5 | 4.5 | 3.0
+Sharjah, United Arab Emirates: | 2.5 | 2.5 | 3.0 | 4.5 | 2.5
+Rhodes, Greece: | 2.0 | 2.5 | 3.5 | 4.0 | 3.0
+Verona, Italy: | 3.0 | 2.5 | 4.0 | 4.0 | 3.5
+Bologna, Italy: | 3.5 | 3.0 | 4.0 | 4.0 | 4.0
+Thessaloniki, Greece: | 3.5 | 3.5 | 4.0 | 3.5 | 4.0
+Buenos Aires, Argentina: | 3.0 | 3.5 | 4.5 | 2.5 | 4.0
+Lima, Peru: | 2.5 | 3.0 | 4.0 | 2.5 | 3.5
+Phuket, Thailand: | 2.0 | 3.5 | 3.5 | 3.0 | 3.0
+Delhi, India: | 2.5 | 4.0 | 4.5 | 2.0 | 3.5
+Heraklion, Greece: | 2.5 | 2.5 | 3.5 | 4.0 | 3.0
+Tallinn, Estonia: | 4.0 | 3.0 | 3.5 | 4.5 | 3.5
+Pattaya-Chonburi, Thailand: | 2.0 | 3.5 | 3.5 | 2.5 | 3.0
+Ho Chi Minh City, Vietnam: | 3.0 | 4.0 | 4.0 | 3.0 | 3.5
+Playa Del Carmen, Mexico: | 2.0 | 2.5 | 3.5 | 2.5 | 3.0
+Johor Bahru, Malaysia: | 2.5 | 3.5 | 3.0 | 3.5 | 2.5
+Santiago, Chile: | 3.5 | 3.0 | 4.0 | 3.0 | 3.5
+Tbilisi, Georgia: | 3.0 | 4.0 | 4.0 | 3.5 | 3.5
+Riyadh, Saudi Arabia: | 2.5 | 2.5 | 3.0 | 4.0 | 2.5
+Marrakech, Morocco: | 2.0 | 3.5 | 4.0 | 2.5 | 3.0
+Vilnius, Lithuania: | 3.5 | 3.5 | 3.5 | 4.0 | 3.5
+Mugla, Turkey: | 2.0 | 3.0 | 3.0 | 3.5 | 2.5
+Zhuhai, China: | 3.5 | 3.5 | 3.0 | 4.5 | 2.5
+Mecca, Saudi Arabia: | 2.0 | 2.5 | 2.5 | 4.5 | 1.5
+Punta Cana, Dominican Republic: | 1.5 | 2.0 | 3.0 | 3.0 | 2.5
+Guilin, China: | 2.5 | 3.5 | 3.5 | 4.0 | 2.5
+Hanoi, Vietnam: | 3.0 | 4.0 | 4.0 | 3.5 | 3.5
+Cairo, Egypt: | 2.0 | 4.0 | 4.5 | 2.0 | 3.0
+Muscat, Oman: | 2.0 | 2.5 | 3.0 | 4.5 | 2.5
