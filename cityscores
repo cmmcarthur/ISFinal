@@ -1,56 +1,100 @@
-{"city":"China","ease_of_public_transportation":4.0,"budget_score":3.0,"activities_todo":3.5,"safety_score":3.0,"social_life":3.5}
-{"city":"Copenhagen, Denmark","ease_of_public_transportation":5.0,"budget_score":2.5,"activities_todo":3.5,"safety_score":5.0,"social_life":4.5}
-{"city":"Nice, France","ease_of_public_transportation":3.5,"budget_score":3.0,"activities_todo":3.5,"safety_score":4.0,"social_life":3.5}
-{"city":"Washington, United States","ease_of_public_transportation":3.5,"budget_score":2.5,"activities_todo":3.5,"safety_score":3.5,"social_life":3.5}
-{"city":"Budapest, Hungary","ease_of_public_transportation":4.5,"budget_score":3.0,"activities_todo":4.5,"safety_score":4.0,"social_life":4.5}
-{"city":"Shenzhen, China","ease_of_public_transportation":4.0,"budget_score":3.0,"activities_todo":3.5,"safety_score":3.0,"social_life":3.5}
-{"city":"Vancouver","ease_of_public_transportation":4.5,"budget_score":2.5,"activities_todo":4.5,"safety_score":5,"social_life":4}
-{"city":"Palma de Mallorca","ease_of_public_transportation":3.5,"budget_score":3,"activities_todo":4,"safety_score":4.5,"social_life":4}
-{"city":"Seville","ease_of_public_transportation":3.5,"budget_score":4,"activities_todo":4.5,"safety_score":4,"social_life":4.5}
-{"city":"Sao Paulo","ease_of_public_transportation":3,"budget_score":3,"activities_todo":4.5,"safety_score":2.5,"social_life":4}
-{"city":"Valencia","ease_of_public_transportation":4,"budget_score":4.5,"activities_todo":4,"safety_score":4.5,"social_life":4}
-{"city":"Mexico City","ease_of_public_transportation":3.5,"budget_score":4,"activities_todo":4.5,"safety_score":3,"social_life":4.5}
-{"city":"Antalya","ease_of_public_transportation":3,"budget_score":4.5,"activities_todo":4,"safety_score":3.5,"social_life":4} 
-{"city":"Sapporo","ease_of_public_transportation":4.5,"budget_score":3.5,"activities_todo":4.5,"safety_score":5,"social_life":4} 
-{"city":"Beijing","ease_of_public_transportation":4.5,"budget_score":3,"activities_todo":4,"safety_score":3.5,"social_life":3.5} 
-{"city":"Busan","ease_of_public_transportation":4,"budget_score":3.5,"activities_todo":4,"safety_score":4.5,"social_life":4.5} 
-{"city":"Fukuoka","ease_of_public_transportation":4,"budget_score":3.5,"activities_todo":4,"safety_score":4.5,"social_life":4}
-{"city":"Edinburgh","ease_of_public_transportation":4,"budget_score":2.5,"activities_todo":4.5,"safety_score":5,"social_life":4.5}
-{"city":"Porto","ease_of_public_transportation":4,"budget_score":4.5,"activities_todo":4,"safety_score":4.5,"social_life":4}
-{"city":"Jerusalem","ease_of_public_transportation":3.5,"budget_score":3.5,"activities_todo":4,"safety_score":3,"social_life":3.5}
-{"city":"Krakow","ease_of_public_transportation":4,"budget_score":4.5,"activities_todo":4.5,"safety_score":4.5,"social_life":4.5}
-{"city":"Rio de Janeiro","ease_of_public_transportation":3,"budget_score":3.5,"activities_todo":4.5,"safety_score":2.5,"social_life":4}
-{"city":"Honolulu","ease_of_public_transportation":2.5,"budget_score":2,"activities_todo":4.5,"safety_score":5,"social_life":3.5}
-{"city":"Montreal","ease_of_public_transportation":4.5,"budget_score":3.5,"activities_todo":4.5,"safety_score":4,"social_life":4.5}
-{"city":"Macau","ease_of_public_transportation":4,"budget_score":2.5,"activities_todo":4,"safety_score":4.5,"social_life":4}
-{"city":"Cancun","ease_of_public_transportation":3,"budget_score":3.5,"activities_todo":4.5,"safety_score":3.5,"social_life":4}
-{"city":"Marne-La-Vallee","ease_of_public_transportation":4.5,"budget_score":2.5,"activities_todo":4,"safety_score":4.5,"social_life":3.5}
-{"city":"Doha","ease_of_public_transportation":4,"budget_score":2,"activities_todo":3.5,"safety_score":5,"social_life":3}
-{"city":"Sharjah","ease_of_public_transportation":3,"budget_score":2.5,"activities_todo":3,"safety_score":5,"social_life":2.5}
-{"city":"Rhodes","ease_of_public_transportation":3,"budget_score":4,"activities_todo":4,"safety_score":4.5,"social_life":4}
-{"city":"Verona","ease_of_public_transportation":3.5,"budget_score":3.5,"activities_todo":4.5,"safety_score":4.5,"social_life":3.5}
-{"city":"Bologna","ease_of_public_transportation":3.5,"budget_score":3.5,"activities_todo":4.5,"safety_score":4.5,"social_life":4}
-{"city":"Thessaloniki","ease_of_public_transportation":3.5,"budget_score":4.5,"activities_todo":4.5,"safety_score":4,"social_life":4.5}
-{"city":"Buenos Aires","ease_of_public_transportation":3,"budget_score":4,"activities_todo":4.5,"safety_score":3,"social_life":4}
-{"city":"Lima","ease_of_public_transportation":2.5,"budget_score":4.5,"activities_todo":4,"safety_score":3,"social_life":3.5}
-{"city":"Phuket","ease_of_public_transportation":2.5,"budget_score":4.5,"activities_todo":4.5,"safety_score":3.5,"social_life":4.5}
-{"city":"Delhi","ease_of_public_transportation":2.5,"budget_score":5,"activities_todo":4,"safety_score":2.5,"social_life":4}
-{"city":"Heraklion","ease_of_public_transportation":3,"budget_score":4,"activities_todo":4,"safety_score":4.5,"social_life":3.5}
-{"city":"Tallinn","ease_of_public_transportation":4,"budget_score":3.5,"activities_todo":4,"safety_score":5,"social_life":4}
-{"city":"Pattaya-Chonburi","ease_of_public_transportation":2.5,"budget_score":4.5,"activities_todo":4.5,"safety_score":3,"social_life":4.5}
-{"city":"Ho Chi Minh City","ease_of_public_transportation":2.5,"budget_score":5,"activities_todo":4,"safety_score":3,"social_life":4.5}
-{"city":"Playa Del Carmen","ease_of_public_transportation":2.5,"budget_score":3.5,"activities_todo":4.5,"safety_score":3.5,"social_life":4}
-{"city":"Johor Bahru","ease_of_public_transportation":3,"budget_score":4.5,"activities_todo":4,"safety_score":4,"social_life":3.5}
-{"city":"Santiago","ease_of_public_transportation":3.5,"budget_score":3.5,"activities_todo":4.5,"safety_score":3.5,"social_life":4}
-{"city":"Tbilisi","ease_of_public_transportation":3,"budget_score":4.5,"activities_todo":4,"safety_score":4,"social_life":4.5}
-{"city":"Riyadh","ease_of_public_transportation":3,"budget_score":3.5,"activities_todo":3,"safety_score":5,"social_life":2.5}
-{"city":"Marrakech","ease_of_public_transportation":2.5,"budget_score":5,"activities_todo":4,"safety_score":3,"social_life":4.5}
-{"city":"Vilnius","ease_of_public_transportation":3.5,"budget_score":3.5,"activities_todo":4,"safety_score":4.5,"social_life":3.5}
-{"city":"Mugla","ease_of_public_transportation":2.5,"budget_score":4.5,"activities_todo":4.5,"safety_score":4.5,"social_life":3.5}
-{"city":"Zhuhai","ease_of_public_transportation":2.5,"budget_score":3.5,"activities_todo":4,"safety_score":5,"social_life":3.5}
-{"city":"Mecca","ease_of_public_transportation":1.5,"budget_score":2,"activities_todo":1,"safety_score":5,"social_life":1}
-{"city":"Punta Cana","ease_of_public_transportation":2,"budget_score":3.5,"activities_todo":4.5,"safety_score":3.5,"social_life":4}
-{"city":"Guilin","ease_of_public_transportation":2.5,"budget_score":4.5,"activities_todo":4,"safety_score":5,"social_life":3.5}
-{"city":"Hanoi","ease_of_public_transportation":2.5,"budget_score":5,"activities_todo":4,"safety_score":3,"social_life":4.5}
-{"city":"Cairo","ease_of_public_transportation":3,"budget_score":4.5,"activities_todo":4,"safety_score":2.5,"social_life":4}
-{"city":"Muscat","ease_of_public_transportation":3,"budget_score":2.5,"activities_todo":3,"safety_score":5,"social_life":3}
+Paris, France: {"ease_of_public_transportation": 5.0, "budget_score": 2.0, "activities_todo": 5.0, "safety_score": 4.0, "social_life": 5.0}
+Dubai, United Arab Emirates: {"ease_of_public_transportation": 3.0, "budget_score": 1.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 3.0}
+Madrid, Spain: {"ease_of_public_transportation": 5.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 4.0, "social_life": 5.0}
+Tokyo, Japan: {"ease_of_public_transportation": 5.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 5.0, "social_life": 4.0}
+Amsterdam, Netherlands: {"ease_of_public_transportation": 5.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 5.0}
+Berlin, Germany: {"ease_of_public_transportation": 5.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 4.0, "social_life": 5.0}
+Rome, Italy: {"ease_of_public_transportation": 3.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 3.0, "social_life": 4.0}
+New York City: {"ease_of_public_transportation": 5.0, "budget_score": 2.0, "activities_todo": 5.0, "safety_score": 3.0, "social_life": 5.0}
+Barcelona, Spain: {"ease_of_public_transportation": 4.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 3.0, "social_life": 5.0}
+London, United Kingdom: {"ease_of_public_transportation": 5.0, "budget_score": 1.0, "activities_todo": 5.0, "safety_score": 4.0, "social_life": 5.0}
+Singapore: {"ease_of_public_transportation": 5.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 3.0}
+Munich, Germany: {"ease_of_public_transportation": 5.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 4.0}
+Milan, Italy: {"ease_of_public_transportation": 4.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 4.0}
+Seoul, South Korea: {"ease_of_public_transportation": 5.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 5.0, "social_life": 4.0}
+Dublin, Ireland: {"ease_of_public_transportation": 3.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 5.0}
+Osaka, Japan: {"ease_of_public_transportation": 5.0, "budget_score": 3.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 3.0}
+Hong Kong: {"ease_of_public_transportation": 5.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 3.0}
+Vienna, Austria: {"ease_of_public_transportation": 5.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 4.0}
+Los Angeles: {"ease_of_public_transportation": 2.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 4.0}
+Lisbon, Portugal: {"ease_of_public_transportation": 4.0, "budget_score": 3.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 4.0}
+Prague, Czech Republic: {"ease_of_public_transportation": 4.0, "budget_score": 4.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 5.0}
+Sydney, Australia: {"ease_of_public_transportation": 4.0, "budget_score": 1.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 4.0}
+Istanbul, Turkey: {"ease_of_public_transportation": 3.0, "budget_score": 4.0, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 4.0}
+Melbourne, Australia: {"ease_of_public_transportation": 4.0, "budget_score": 1.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 4.0}
+Orlando, Florida: {"ease_of_public_transportation": 1.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 3.0}
+Frankfurt, Germany: {"ease_of_public_transportation": 5.0, "budget_score": 2.0, "activities_todo": 3.0, "safety_score": 4.0, "social_life": 3.0}
+Kyoto, Japan: {"ease_of_public_transportation": 4.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 5.0, "social_life": 3.0}
+Taipei, Taiwan: {"ease_of_public_transportation": 5.0, "budget_score": 4.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 4.0}
+Florence, Italy: {"ease_of_public_transportation": 3.0, "budget_score": 2.0, "activities_todo": 5.0, "safety_score": 4.0, "social_life": 4.0}
+Toronto, Canada: {"ease_of_public_transportation": 4.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 4.0}
+Athens, Greece: {"ease_of_public_transportation": 3.0, "budget_score": 4.0, "activities_todo": 5.0, "safety_score": 3.0, "social_life": 4.0}
+Zurich, Switzerland: {"ease_of_public_transportation": 5.0, "budget_score": 1.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 3.0}
+Bangkok, Thailand: {"ease_of_public_transportation": 3.0, "budget_score": 5.0, "activities_todo": 5.0, "safety_score": 3.0, "social_life": 5.0}
+Las Vegas: {"ease_of_public_transportation": 2.0, "budget_score": 2.0, "activities_todo": 5.0, "safety_score": 3.0, "social_life": 5.0}
+Miami: {"ease_of_public_transportation": 2.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 5.0}
+Kuala Lumpur, Malaysia: {"ease_of_public_transportation": 4.0, "budget_score": 4.0, "activities_todo": 3.0, "safety_score": 4.0, "social_life": 3.0}
+Venice, Italy: {"ease_of_public_transportation": 2.0, "budget_score": 1.0, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 2.0}
+Abu Dhabi, United Arab Emirates: {"ease_of_public_transportation": 2.0, "budget_score": 1.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 2.0}
+Stockholm, Sweden: {"ease_of_public_transportation": 5.0, "budget_score": 1.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 4.0}
+Brussels, Belgium: {"ease_of_public_transportation": 4.0, "budget_score": 2.0, "activities_todo": 3.0, "safety_score": 3.0, "social_life": 4.0}
+Tel Aviv, Israel: {"ease_of_public_transportation": 3.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 5.0}
+San Francisco: {"ease_of_public_transportation": 3.0, "budget_score": 1.0, "activities_todo": 4.0, "safety_score": 2.0, "social_life": 4.0}
+Shanghai, China: {"ease_of_public_transportation": 5.0, "budget_score": 3.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 3.0}
+Warsaw, Poland: {"ease_of_public_transportation": 4.0, "budget_score": 4.0, "activities_todo": 3.0, "safety_score": 4.0, "social_life": 4.0}
+Guangzhou, China: {"ease_of_public_transportation": 4.0, "budget_score": 3.0, "activities_todo": 3.0, "safety_score": 4.0, "social_life": 3.0}
+Copenhagen, Denmark: {"ease_of_public_transportation": 5.0, "budget_score": 1.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 4.0}
+Nice, France: {"ease_of_public_transportation": 3.0, "budget_score": 2.0, "activities_todo": 3.0, "safety_score": 4.0, "social_life": 3.0}
+Washington, United States: {"ease_of_public_transportation": 3.0, "budget_score": 1.0, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 4.0}
+Budapest, Hungary: {"ease_of_public_transportation": 4.0, "budget_score": 4.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 5.0}
+Shenzhen, China: {"ease_of_public_transportation": 4.0, "budget_score": 3.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 3.0}
+Vancouver, Canada: {"ease_of_public_transportation": 4.0, "budget_score": 1.0, "activities_todo": 3.0, "safety_score": 4.0, "social_life": 3.0}
+Palma de Mallorca, Spain: {"ease_of_public_transportation": 2.0, "budget_score": 2.0, "activities_todo": 3.0, "safety_score": 4.0, "social_life": 3.0}
+Seville, Spain: {"ease_of_public_transportation": 3.0, "budget_score": 3.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 4.0}
+São Paulo, Brazil: {"ease_of_public_transportation": 3.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 2.0, "social_life": 5.0}
+Valencia, Spain: {"ease_of_public_transportation": 4.0, "budget_score": 3.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 4.0}
+Mexico City, Mexico: {"ease_of_public_transportation": 3.0, "budget_score": 4.0, "activities_todo": 5.0, "safety_score": 2.0, "social_life": 5.0}
+Antalya, Turkey: {"ease_of_public_transportation": 2.0, "budget_score": 3.0, "activities_todo": 3.0, "safety_score": 3.0, "social_life": 3.0}
+Sapporo, Japan: {"ease_of_public_transportation": 4.0, "budget_score": 3.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 2.0}
+Beijing, China: {"ease_of_public_transportation": 5.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 5.0, "social_life": 3.0}
+Busan, South Korea: {"ease_of_public_transportation": 4.0, "budget_score": 3.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 3.0}
+Fukuoka, Japan: {"ease_of_public_transportation": 4.0, "budget_score": 3.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 3.0}
+Edinburgh, United Kingdom: {"ease_of_public_transportation": 3.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 5.0}
+Porto, Portugal: {"ease_of_public_transportation": 3.0, "budget_score": 3.0, "activities_todo": 3.0, "safety_score": 4.0, "social_life": 4.0}
+Jerusalem, Israel: {"ease_of_public_transportation": 2.0, "budget_score": 2.0, "activities_todo": 5.0, "safety_score": 2.0, "social_life": 3.0}
+Kraków, Poland: {"ease_of_public_transportation": 3.0, "budget_score": 4.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 5.0}
+Rio de Janeiro, Brazil: {"ease_of_public_transportation": 2.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 2.0, "social_life": 5.0}
+Honolulu, Hawaii: {"ease_of_public_transportation": 2.0, "budget_score": 1.0, "activities_todo": 3.0, "safety_score": 4.0, "social_life": 3.0}
+Montreal, Canada: {"ease_of_public_transportation": 4.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 4.0}
+Macau: {"ease_of_public_transportation": 3.0, "budget_score": 2.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 2.0}
+Cancún, Mexico: {"ease_of_public_transportation": 1.0, "budget_score": 2.0, "activities_todo": 3.0, "safety_score": 3.0, "social_life": 4.0}
+Marne-La-Vallée, France: {"ease_of_public_transportation": 3.0, "budget_score": 1.0, "activities_todo": 2.0, "safety_score": 4.0, "social_life": 1.0}
+Doha, Qatar: {"ease_of_public_transportation": 2.0, "budget_score": 1.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 2.0}
+Sharjah, United Arab Emirates: {"ease_of_public_transportation": 2.5, "budget_score": 2.0, "activities_todo": 2.5, "safety_score": 4.5, "social_life": 2.0}
+Rhodes, Greece: {"ease_of_public_transportation": 2.0, "budget_score": 2.5, "activities_todo": 3.5, "safety_score": 4.5, "social_life": 3.0}
+Verona, Italy: {"ease_of_public_transportation": 3.0, "budget_score": 2.0, "activities_todo": 3.5, "safety_score": 4.5, "social_life": 3.0}
+Bologna, Italy: {"ease_of_public_transportation": 3.5, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 4.5, "social_life": 4.0}
+Thessaloniki, Greece: {"ease_of_public_transportation": 3.0, "budget_score": 3.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 4.5}
+Buenos Aires, Argentina: {"ease_of_public_transportation": 3.5, "budget_score": 3.5, "activities_todo": 5.0, "safety_score": 2.5, "social_life": 5.0}
+Lima, Peru: {"ease_of_public_transportation": 2.5, "budget_score": 3.0, "activities_todo": 4.0, "safety_score": 2.5, "social_life": 3.5}
+Phuket, Thailand: {"ease_of_public_transportation": 2.0, "budget_score": 3.0, "activities_todo": 4.0, "safety_score": 3.5, "social_life": 4.0}
+Delhi, India: {"ease_of_public_transportation": 3.5, "budget_score": 4.0, "activities_todo": 4.5, "safety_score": 2.0, "social_life": 4.0}
+Heraklion, Greece: {"ease_of_public_transportation": 2.0, "budget_score": 2.5, "activities_todo": 3.0, "safety_score": 4.5, "social_life": 2.5}
+Tallinn, Estonia: {"ease_of_public_transportation": 4.0, "budget_score": 2.5, "activities_todo": 3.5, "safety_score": 5.0, "social_life": 3.5}
+Pattaya-Chonburi, Thailand: {"ease_of_public_transportation": 2.0, "budget_score": 3.5, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 4.5}
+Ho Chi Minh City, Vietnam: {"ease_of_public_transportation": 3.0, "budget_score": 4.5, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 4.0}
+Playa Del Carmen, Mexico: {"ease_of_public_transportation": 2.0, "budget_score": 2.5, "activities_todo": 3.5, "safety_score": 3.0, "social_life": 4.0}
+Johor Bahru, Malaysia: {"ease_of_public_transportation": 2.5, "budget_score": 3.0, "activities_todo": 2.5, "safety_score": 4.0, "social_life": 2.5}
+Santiago, Chile: {"ease_of_public_transportation": 3.5, "budget_score": 2.5, "activities_todo": 4.0, "safety_score": 3.5, "social_life": 4.0}
+Tbilisi, Georgia: {"ease_of_public_transportation": 3.0, "budget_score": 4.0, "activities_todo": 3.5, "safety_score": 4.0, "social_life": 3.5}
+Riyadh, Saudi Arabia: {"ease_of_public_transportation": 2.0, "budget_score": 2.0, "activities_todo": 2.5, "safety_score": 4.5, "social_life": 2.0}
+Marrakech, Morocco: {"ease_of_public_transportation": 1.5, "budget_score": 3.5, "activities_todo": 4.0, "safety_score": 2.5, "social_life": 3.5}
+Vilnius, Lithuania: {"ease_of_public_transportation": 3.5, "budget_score": 3.0, "activities_todo": 3.5, "safety_score": 4.5, "social_life": 3.5}
+Mugla, Turkey: {"ease_of_public_transportation": 1.5, "budget_score": 3.0, "activities_todo": 2.5, "safety_score": 4.0, "social_life": 2.0}
+Zhuhai, China: {"ease_of_public_transportation": 3.0, "budget_score": 2.5, "activities_todo": 2.5, "safety_score": 4.5, "social_life": 2.0}
+Mecca, Saudi Arabia: {"ease_of_public_transportation": 2.5, "budget_score": 1.5, "activities_todo": 1.5, "safety_score": 5.0, "social_life": 1.0}
+Punta Cana, Dominican Republic: {"ease_of_public_transportation": 1.0, "budget_score": 2.0, "activities_todo": 3.0, "safety_score": 3.0, "social_life": 3.5}
+Guilin, China: {"ease_of_public_transportation": 2.0, "budget_score": 3.5, "activities_todo": 3.0, "safety_score": 4.5, "social_life": 2.0}
+Hanoi, Vietnam: {"ease_of_public_transportation": 2.5, "budget_score": 4.5, "activities_todo": 4.0, "safety_score": 3.5, "social_life": 4.0}
+Cairo, Egypt: {"ease_of_public_transportation": 2.0, "budget_score": 4.0, "activities_todo": 4.5, "safety_score": 2.0, "social_life": 3.5}
+Muscat, Oman: {"ease_of_public_transportation": 1.5, "budget_score": 2.0, "activities_todo": 2.5, "safety_score": 5.0, "social_life": 2.0}
