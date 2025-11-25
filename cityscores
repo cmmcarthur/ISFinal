@@ -1,0 +1,56 @@
+{"city":"China","ease_of_public_transportation":4.0,"budget_score":3.0,"activities_todo":3.5,"safety_score":3.0,"social_life":3.5}
+{"city":"Copenhagen, Denmark","ease_of_public_transportation":5.0,"budget_score":2.5,"activities_todo":3.5,"safety_score":5.0,"social_life":4.5}
+{"city":"Nice, France","ease_of_public_transportation":3.5,"budget_score":3.0,"activities_todo":3.5,"safety_score":4.0,"social_life":3.5}
+{"city":"Washington, United States","ease_of_public_transportation":3.5,"budget_score":2.5,"activities_todo":3.5,"safety_score":3.5,"social_life":3.5}
+{"city":"Budapest, Hungary","ease_of_public_transportation":4.5,"budget_score":3.0,"activities_todo":4.5,"safety_score":4.0,"social_life":4.5}
+{"city":"Shenzhen, China","ease_of_public_transportation":4.0,"budget_score":3.0,"activities_todo":3.5,"safety_score":3.0,"social_life":3.5}
+{"city":"Vancouver","ease_of_public_transportation":4.5,"budget_score":2.5,"activities_todo":4.5,"safety_score":5,"social_life":4}
+{"city":"Palma de Mallorca","ease_of_public_transportation":3.5,"budget_score":3,"activities_todo":4,"safety_score":4.5,"social_life":4}
+{"city":"Seville","ease_of_public_transportation":3.5,"budget_score":4,"activities_todo":4.5,"safety_score":4,"social_life":4.5}
+{"city":"Sao Paulo","ease_of_public_transportation":3,"budget_score":3,"activities_todo":4.5,"safety_score":2.5,"social_life":4}
+{"city":"Valencia","ease_of_public_transportation":4,"budget_score":4.5,"activities_todo":4,"safety_score":4.5,"social_life":4}
+{"city":"Mexico City","ease_of_public_transportation":3.5,"budget_score":4,"activities_todo":4.5,"safety_score":3,"social_life":4.5}
+{"city":"Antalya","ease_of_public_transportation":3,"budget_score":4.5,"activities_todo":4,"safety_score":3.5,"social_life":4} 
+{"city":"Sapporo","ease_of_public_transportation":4.5,"budget_score":3.5,"activities_todo":4.5,"safety_score":5,"social_life":4} 
+{"city":"Beijing","ease_of_public_transportation":4.5,"budget_score":3,"activities_todo":4,"safety_score":3.5,"social_life":3.5} 
+{"city":"Busan","ease_of_public_transportation":4,"budget_score":3.5,"activities_todo":4,"safety_score":4.5,"social_life":4.5} 
+{"city":"Fukuoka","ease_of_public_transportation":4,"budget_score":3.5,"activities_todo":4,"safety_score":4.5,"social_life":4}
+{"city":"Edinburgh","ease_of_public_transportation":4,"budget_score":2.5,"activities_todo":4.5,"safety_score":5,"social_life":4.5}
+{"city":"Porto","ease_of_public_transportation":4,"budget_score":4.5,"activities_todo":4,"safety_score":4.5,"social_life":4}
+{"city":"Jerusalem","ease_of_public_transportation":3.5,"budget_score":3.5,"activities_todo":4,"safety_score":3,"social_life":3.5}
+{"city":"Krakow","ease_of_public_transportation":4,"budget_score":4.5,"activities_todo":4.5,"safety_score":4.5,"social_life":4.5}
+{"city":"Rio de Janeiro","ease_of_public_transportation":3,"budget_score":3.5,"activities_todo":4.5,"safety_score":2.5,"social_life":4}
+{"city":"Honolulu","ease_of_public_transportation":2.5,"budget_score":2,"activities_todo":4.5,"safety_score":5,"social_life":3.5}
+{"city":"Montreal","ease_of_public_transportation":4.5,"budget_score":3.5,"activities_todo":4.5,"safety_score":4,"social_life":4.5}
+{"city":"Macau","ease_of_public_transportation":4,"budget_score":2.5,"activities_todo":4,"safety_score":4.5,"social_life":4}
+{"city":"Cancun","ease_of_public_transportation":3,"budget_score":3.5,"activities_todo":4.5,"safety_score":3.5,"social_life":4}
+{"city":"Marne-La-Vallee","ease_of_public_transportation":4.5,"budget_score":2.5,"activities_todo":4,"safety_score":4.5,"social_life":3.5}
+{"city":"Doha","ease_of_public_transportation":4,"budget_score":2,"activities_todo":3.5,"safety_score":5,"social_life":3}
+{"city":"Sharjah","ease_of_public_transportation":3,"budget_score":2.5,"activities_todo":3,"safety_score":5,"social_life":2.5}
+{"city":"Rhodes","ease_of_public_transportation":3,"budget_score":4,"activities_todo":4,"safety_score":4.5,"social_life":4}
+{"city":"Verona","ease_of_public_transportation":3.5,"budget_score":3.5,"activities_todo":4.5,"safety_score":4.5,"social_life":3.5}
+{"city":"Bologna","ease_of_public_transportation":3.5,"budget_score":3.5,"activities_todo":4.5,"safety_score":4.5,"social_life":4}
+{"city":"Thessaloniki","ease_of_public_transportation":3.5,"budget_score":4.5,"activities_todo":4.5,"safety_score":4,"social_life":4.5}
+{"city":"Buenos Aires","ease_of_public_transportation":3,"budget_score":4,"activities_todo":4.5,"safety_score":3,"social_life":4}
+{"city":"Lima","ease_of_public_transportation":2.5,"budget_score":4.5,"activities_todo":4,"safety_score":3,"social_life":3.5}
+{"city":"Phuket","ease_of_public_transportation":2.5,"budget_score":4.5,"activities_todo":4.5,"safety_score":3.5,"social_life":4.5}
+{"city":"Delhi","ease_of_public_transportation":2.5,"budget_score":5,"activities_todo":4,"safety_score":2.5,"social_life":4}
+{"city":"Heraklion","ease_of_public_transportation":3,"budget_score":4,"activities_todo":4,"safety_score":4.5,"social_life":3.5}
+{"city":"Tallinn","ease_of_public_transportation":4,"budget_score":3.5,"activities_todo":4,"safety_score":5,"social_life":4}
+{"city":"Pattaya-Chonburi","ease_of_public_transportation":2.5,"budget_score":4.5,"activities_todo":4.5,"safety_score":3,"social_life":4.5}
+{"city":"Ho Chi Minh City","ease_of_public_transportation":2.5,"budget_score":5,"activities_todo":4,"safety_score":3,"social_life":4.5}
+{"city":"Playa Del Carmen","ease_of_public_transportation":2.5,"budget_score":3.5,"activities_todo":4.5,"safety_score":3.5,"social_life":4}
+{"city":"Johor Bahru","ease_of_public_transportation":3,"budget_score":4.5,"activities_todo":4,"safety_score":4,"social_life":3.5}
+{"city":"Santiago","ease_of_public_transportation":3.5,"budget_score":3.5,"activities_todo":4.5,"safety_score":3.5,"social_life":4}
+{"city":"Tbilisi","ease_of_public_transportation":3,"budget_score":4.5,"activities_todo":4,"safety_score":4,"social_life":4.5}
+{"city":"Riyadh","ease_of_public_transportation":3,"budget_score":3.5,"activities_todo":3,"safety_score":5,"social_life":2.5}
+{"city":"Marrakech","ease_of_public_transportation":2.5,"budget_score":5,"activities_todo":4,"safety_score":3,"social_life":4.5}
+{"city":"Vilnius","ease_of_public_transportation":3.5,"budget_score":3.5,"activities_todo":4,"safety_score":4.5,"social_life":3.5}
+{"city":"Mugla","ease_of_public_transportation":2.5,"budget_score":4.5,"activities_todo":4.5,"safety_score":4.5,"social_life":3.5}
+{"city":"Zhuhai","ease_of_public_transportation":2.5,"budget_score":3.5,"activities_todo":4,"safety_score":5,"social_life":3.5}
+{"city":"Mecca","ease_of_public_transportation":1.5,"budget_score":2,"activities_todo":1,"safety_score":5,"social_life":1}
+{"city":"Punta Cana","ease_of_public_transportation":2,"budget_score":3.5,"activities_todo":4.5,"safety_score":3.5,"social_life":4}
+{"city":"Guilin","ease_of_public_transportation":2.5,"budget_score":4.5,"activities_todo":4,"safety_score":5,"social_life":3.5}
+{"city":"Hanoi","ease_of_public_transportation":2.5,"budget_score":5,"activities_todo":4,"safety_score":3,"social_life":4.5}
+{"city":"Cairo","ease_of_public_transportation":3,"budget_score":4.5,"activities_todo":4,"safety_score":2.5,"social_life":4}
+{"city":"Muscat","ease_of_public_transportation":3,"budget_score":2.5,"activities_todo":3,"safety_score":5,"social_life":3}
