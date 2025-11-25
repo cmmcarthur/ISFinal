@@ -1,100 +1,100 @@
-Paris, France: {"ease_of_public_transportation": 5.0, "budget_score": 2.0, "activities_todo": 5.0, "safety_score": 4.0, "social_life": 5.0}
-Dubai, United Arab Emirates: {"ease_of_public_transportation": 3.0, "budget_score": 1.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 3.0}
-Madrid, Spain: {"ease_of_public_transportation": 5.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 4.0, "social_life": 5.0}
-Tokyo, Japan: {"ease_of_public_transportation": 5.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 5.0, "social_life": 4.0}
-Amsterdam, Netherlands: {"ease_of_public_transportation": 5.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 5.0}
-Berlin, Germany: {"ease_of_public_transportation": 5.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 4.0, "social_life": 5.0}
-Rome, Italy: {"ease_of_public_transportation": 3.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 3.0, "social_life": 4.0}
-New York City: {"ease_of_public_transportation": 5.0, "budget_score": 2.0, "activities_todo": 5.0, "safety_score": 3.0, "social_life": 5.0}
-Barcelona, Spain: {"ease_of_public_transportation": 4.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 3.0, "social_life": 5.0}
-London, United Kingdom: {"ease_of_public_transportation": 5.0, "budget_score": 1.0, "activities_todo": 5.0, "safety_score": 4.0, "social_life": 5.0}
-Singapore: {"ease_of_public_transportation": 5.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 3.0}
-Munich, Germany: {"ease_of_public_transportation": 5.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 4.0}
-Milan, Italy: {"ease_of_public_transportation": 4.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 4.0}
-Seoul, South Korea: {"ease_of_public_transportation": 5.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 5.0, "social_life": 4.0}
-Dublin, Ireland: {"ease_of_public_transportation": 3.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 5.0}
-Osaka, Japan: {"ease_of_public_transportation": 5.0, "budget_score": 3.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 3.0}
-Hong Kong: {"ease_of_public_transportation": 5.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 3.0}
-Vienna, Austria: {"ease_of_public_transportation": 5.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 4.0}
-Los Angeles: {"ease_of_public_transportation": 2.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 4.0}
-Lisbon, Portugal: {"ease_of_public_transportation": 4.0, "budget_score": 3.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 4.0}
-Prague, Czech Republic: {"ease_of_public_transportation": 4.0, "budget_score": 4.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 5.0}
-Sydney, Australia: {"ease_of_public_transportation": 4.0, "budget_score": 1.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 4.0}
-Istanbul, Turkey: {"ease_of_public_transportation": 3.0, "budget_score": 4.0, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 4.0}
-Melbourne, Australia: {"ease_of_public_transportation": 4.0, "budget_score": 1.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 4.0}
-Orlando, Florida: {"ease_of_public_transportation": 1.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 3.0}
-Frankfurt, Germany: {"ease_of_public_transportation": 5.0, "budget_score": 2.0, "activities_todo": 3.0, "safety_score": 4.0, "social_life": 3.0}
-Kyoto, Japan: {"ease_of_public_transportation": 4.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 5.0, "social_life": 3.0}
-Taipei, Taiwan: {"ease_of_public_transportation": 5.0, "budget_score": 4.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 4.0}
-Florence, Italy: {"ease_of_public_transportation": 3.0, "budget_score": 2.0, "activities_todo": 5.0, "safety_score": 4.0, "social_life": 4.0}
-Toronto, Canada: {"ease_of_public_transportation": 4.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 4.0}
-Athens, Greece: {"ease_of_public_transportation": 3.0, "budget_score": 4.0, "activities_todo": 5.0, "safety_score": 3.0, "social_life": 4.0}
-Zurich, Switzerland: {"ease_of_public_transportation": 5.0, "budget_score": 1.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 3.0}
-Bangkok, Thailand: {"ease_of_public_transportation": 3.0, "budget_score": 5.0, "activities_todo": 5.0, "safety_score": 3.0, "social_life": 5.0}
-Las Vegas: {"ease_of_public_transportation": 2.0, "budget_score": 2.0, "activities_todo": 5.0, "safety_score": 3.0, "social_life": 5.0}
-Miami: {"ease_of_public_transportation": 2.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 5.0}
-Kuala Lumpur, Malaysia: {"ease_of_public_transportation": 4.0, "budget_score": 4.0, "activities_todo": 3.0, "safety_score": 4.0, "social_life": 3.0}
-Venice, Italy: {"ease_of_public_transportation": 2.0, "budget_score": 1.0, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 2.0}
-Abu Dhabi, United Arab Emirates: {"ease_of_public_transportation": 2.0, "budget_score": 1.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 2.0}
-Stockholm, Sweden: {"ease_of_public_transportation": 5.0, "budget_score": 1.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 4.0}
-Brussels, Belgium: {"ease_of_public_transportation": 4.0, "budget_score": 2.0, "activities_todo": 3.0, "safety_score": 3.0, "social_life": 4.0}
-Tel Aviv, Israel: {"ease_of_public_transportation": 3.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 5.0}
-San Francisco: {"ease_of_public_transportation": 3.0, "budget_score": 1.0, "activities_todo": 4.0, "safety_score": 2.0, "social_life": 4.0}
-Shanghai, China: {"ease_of_public_transportation": 5.0, "budget_score": 3.0, "activities_todo": 4.0, "safety_score": 5.0, "social_life": 3.0}
-Warsaw, Poland: {"ease_of_public_transportation": 4.0, "budget_score": 4.0, "activities_todo": 3.0, "safety_score": 4.0, "social_life": 4.0}
-Guangzhou, China: {"ease_of_public_transportation": 4.0, "budget_score": 3.0, "activities_todo": 3.0, "safety_score": 4.0, "social_life": 3.0}
-Copenhagen, Denmark: {"ease_of_public_transportation": 5.0, "budget_score": 1.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 4.0}
-Nice, France: {"ease_of_public_transportation": 3.0, "budget_score": 2.0, "activities_todo": 3.0, "safety_score": 4.0, "social_life": 3.0}
-Washington, United States: {"ease_of_public_transportation": 3.0, "budget_score": 1.0, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 4.0}
-Budapest, Hungary: {"ease_of_public_transportation": 4.0, "budget_score": 4.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 5.0}
-Shenzhen, China: {"ease_of_public_transportation": 4.0, "budget_score": 3.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 3.0}
-Vancouver, Canada: {"ease_of_public_transportation": 4.0, "budget_score": 1.0, "activities_todo": 3.0, "safety_score": 4.0, "social_life": 3.0}
-Palma de Mallorca, Spain: {"ease_of_public_transportation": 2.0, "budget_score": 2.0, "activities_todo": 3.0, "safety_score": 4.0, "social_life": 3.0}
-Seville, Spain: {"ease_of_public_transportation": 3.0, "budget_score": 3.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 4.0}
-São Paulo, Brazil: {"ease_of_public_transportation": 3.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 2.0, "social_life": 5.0}
-Valencia, Spain: {"ease_of_public_transportation": 4.0, "budget_score": 3.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 4.0}
-Mexico City, Mexico: {"ease_of_public_transportation": 3.0, "budget_score": 4.0, "activities_todo": 5.0, "safety_score": 2.0, "social_life": 5.0}
-Antalya, Turkey: {"ease_of_public_transportation": 2.0, "budget_score": 3.0, "activities_todo": 3.0, "safety_score": 3.0, "social_life": 3.0}
-Sapporo, Japan: {"ease_of_public_transportation": 4.0, "budget_score": 3.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 2.0}
-Beijing, China: {"ease_of_public_transportation": 5.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 5.0, "social_life": 3.0}
-Busan, South Korea: {"ease_of_public_transportation": 4.0, "budget_score": 3.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 3.0}
-Fukuoka, Japan: {"ease_of_public_transportation": 4.0, "budget_score": 3.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 3.0}
-Edinburgh, United Kingdom: {"ease_of_public_transportation": 3.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 5.0}
-Porto, Portugal: {"ease_of_public_transportation": 3.0, "budget_score": 3.0, "activities_todo": 3.0, "safety_score": 4.0, "social_life": 4.0}
-Jerusalem, Israel: {"ease_of_public_transportation": 2.0, "budget_score": 2.0, "activities_todo": 5.0, "safety_score": 2.0, "social_life": 3.0}
-Kraków, Poland: {"ease_of_public_transportation": 3.0, "budget_score": 4.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 5.0}
-Rio de Janeiro, Brazil: {"ease_of_public_transportation": 2.0, "budget_score": 3.0, "activities_todo": 5.0, "safety_score": 2.0, "social_life": 5.0}
-Honolulu, Hawaii: {"ease_of_public_transportation": 2.0, "budget_score": 1.0, "activities_todo": 3.0, "safety_score": 4.0, "social_life": 3.0}
-Montreal, Canada: {"ease_of_public_transportation": 4.0, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 4.0}
-Macau: {"ease_of_public_transportation": 3.0, "budget_score": 2.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 2.0}
-Cancún, Mexico: {"ease_of_public_transportation": 1.0, "budget_score": 2.0, "activities_todo": 3.0, "safety_score": 3.0, "social_life": 4.0}
-Marne-La-Vallée, France: {"ease_of_public_transportation": 3.0, "budget_score": 1.0, "activities_todo": 2.0, "safety_score": 4.0, "social_life": 1.0}
-Doha, Qatar: {"ease_of_public_transportation": 2.0, "budget_score": 1.0, "activities_todo": 3.0, "safety_score": 5.0, "social_life": 2.0}
-Sharjah, United Arab Emirates: {"ease_of_public_transportation": 2.5, "budget_score": 2.0, "activities_todo": 2.5, "safety_score": 4.5, "social_life": 2.0}
-Rhodes, Greece: {"ease_of_public_transportation": 2.0, "budget_score": 2.5, "activities_todo": 3.5, "safety_score": 4.5, "social_life": 3.0}
-Verona, Italy: {"ease_of_public_transportation": 3.0, "budget_score": 2.0, "activities_todo": 3.5, "safety_score": 4.5, "social_life": 3.0}
-Bologna, Italy: {"ease_of_public_transportation": 3.5, "budget_score": 2.0, "activities_todo": 4.0, "safety_score": 4.5, "social_life": 4.0}
-Thessaloniki, Greece: {"ease_of_public_transportation": 3.0, "budget_score": 3.0, "activities_todo": 4.0, "safety_score": 4.0, "social_life": 4.5}
-Buenos Aires, Argentina: {"ease_of_public_transportation": 3.5, "budget_score": 3.5, "activities_todo": 5.0, "safety_score": 2.5, "social_life": 5.0}
-Lima, Peru: {"ease_of_public_transportation": 2.5, "budget_score": 3.0, "activities_todo": 4.0, "safety_score": 2.5, "social_life": 3.5}
-Phuket, Thailand: {"ease_of_public_transportation": 2.0, "budget_score": 3.0, "activities_todo": 4.0, "safety_score": 3.5, "social_life": 4.0}
-Delhi, India: {"ease_of_public_transportation": 3.5, "budget_score": 4.0, "activities_todo": 4.5, "safety_score": 2.0, "social_life": 4.0}
-Heraklion, Greece: {"ease_of_public_transportation": 2.0, "budget_score": 2.5, "activities_todo": 3.0, "safety_score": 4.5, "social_life": 2.5}
-Tallinn, Estonia: {"ease_of_public_transportation": 4.0, "budget_score": 2.5, "activities_todo": 3.5, "safety_score": 5.0, "social_life": 3.5}
-Pattaya-Chonburi, Thailand: {"ease_of_public_transportation": 2.0, "budget_score": 3.5, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 4.5}
-Ho Chi Minh City, Vietnam: {"ease_of_public_transportation": 3.0, "budget_score": 4.5, "activities_todo": 4.0, "safety_score": 3.0, "social_life": 4.0}
-Playa Del Carmen, Mexico: {"ease_of_public_transportation": 2.0, "budget_score": 2.5, "activities_todo": 3.5, "safety_score": 3.0, "social_life": 4.0}
-Johor Bahru, Malaysia: {"ease_of_public_transportation": 2.5, "budget_score": 3.0, "activities_todo": 2.5, "safety_score": 4.0, "social_life": 2.5}
-Santiago, Chile: {"ease_of_public_transportation": 3.5, "budget_score": 2.5, "activities_todo": 4.0, "safety_score": 3.5, "social_life": 4.0}
-Tbilisi, Georgia: {"ease_of_public_transportation": 3.0, "budget_score": 4.0, "activities_todo": 3.5, "safety_score": 4.0, "social_life": 3.5}
-Riyadh, Saudi Arabia: {"ease_of_public_transportation": 2.0, "budget_score": 2.0, "activities_todo": 2.5, "safety_score": 4.5, "social_life": 2.0}
-Marrakech, Morocco: {"ease_of_public_transportation": 1.5, "budget_score": 3.5, "activities_todo": 4.0, "safety_score": 2.5, "social_life": 3.5}
-Vilnius, Lithuania: {"ease_of_public_transportation": 3.5, "budget_score": 3.0, "activities_todo": 3.5, "safety_score": 4.5, "social_life": 3.5}
-Mugla, Turkey: {"ease_of_public_transportation": 1.5, "budget_score": 3.0, "activities_todo": 2.5, "safety_score": 4.0, "social_life": 2.0}
-Zhuhai, China: {"ease_of_public_transportation": 3.0, "budget_score": 2.5, "activities_todo": 2.5, "safety_score": 4.5, "social_life": 2.0}
-Mecca, Saudi Arabia: {"ease_of_public_transportation": 2.5, "budget_score": 1.5, "activities_todo": 1.5, "safety_score": 5.0, "social_life": 1.0}
-Punta Cana, Dominican Republic: {"ease_of_public_transportation": 1.0, "budget_score": 2.0, "activities_todo": 3.0, "safety_score": 3.0, "social_life": 3.5}
-Guilin, China: {"ease_of_public_transportation": 2.0, "budget_score": 3.5, "activities_todo": 3.0, "safety_score": 4.5, "social_life": 2.0}
-Hanoi, Vietnam: {"ease_of_public_transportation": 2.5, "budget_score": 4.5, "activities_todo": 4.0, "safety_score": 3.5, "social_life": 4.0}
-Cairo, Egypt: {"ease_of_public_transportation": 2.0, "budget_score": 4.0, "activities_todo": 4.5, "safety_score": 2.0, "social_life": 3.5}
-Muscat, Oman: {"ease_of_public_transportation": 1.5, "budget_score": 2.0, "activities_todo": 2.5, "safety_score": 5.0, "social_life": 2.0}
+Paris, France: {4.0, 2.0, 5.0, 4.0, 5.0}
+Dubai, United Arab Emirates: {3.0, 2.0, 4.0, 5.0, 3.0}
+Madrid, Spain: {5.0, 3.0, 5.0, 4.0, 5.0}
+Tokyo, Japan: {5.0, 2.0, 5.0, 5.0, 4.0}
+Amsterdam, Netherlands: {5.0, 2.0, 5.0, 4.0, 5.0}
+Berlin, Germany: {5.0, 3.0, 5.0, 4.0, 5.0}
+Rome, Italy: {3.0, 2.0, 5.0, 3.0, 4.0}
+New York City: {4.0, 1.0, 5.0, 3.0, 5.0}
+Barcelona, Spain: {4.0, 3.0, 5.0, 3.0, 5.0}
+London, United Kingdom: {5.0, 1.0, 5.0, 4.0, 5.0}
+Singapore: {5.0, 2.0, 4.0, 5.0, 3.0}
+Munich, Germany: {5.0, 2.0, 4.0, 5.0, 4.0}
+Milan, Italy: {4.0, 2.0, 4.0, 3.0, 4.0}
+Seoul, South Korea: {5.0, 3.0, 5.0, 5.0, 4.0}
+Dublin, Ireland: {3.0, 2.0, 4.0, 4.0, 5.0}
+Osaka, Japan: {5.0, 3.0, 4.0, 5.0, 4.0}
+Hong Kong: {5.0, 2.0, 4.0, 5.0, 3.0}
+Vienna, Austria: {5.0, 2.0, 5.0, 5.0, 4.0}
+Los Angeles: {2.0, 2.0, 4.0, 3.0, 4.0}
+Lisbon, Portugal: {4.0, 3.0, 4.0, 4.0, 5.0}
+Prague, Czech Republic: {4.0, 4.0, 5.0, 4.0, 5.0}
+Sydney, Australia: {3.0, 1.0, 4.0, 4.0, 4.0}
+Istanbul, Turkey: {3.0, 3.0, 5.0, 3.0, 4.0}
+Melbourne, Australia: {3.0, 2.0, 4.0, 4.0, 4.0}
+Orlando, Florida: {1.0, 2.0, 3.0, 3.0, 2.0}
+Frankfurt, Germany: {5.0, 2.0, 3.0, 4.0, 3.0}
+Kyoto, Japan: {4.0, 2.0, 5.0, 5.0, 3.0}
+Taipei, Taiwan: {5.0, 3.0, 4.0, 5.0, 4.0}
+Florence, Italy: {3.0, 2.0, 5.0, 3.0, 4.0}
+Toronto, Canada: {4.0, 2.0, 4.0, 4.0, 4.0}
+Athens, Greece: {3.0, 3.0, 5.0, 3.0, 4.0}
+Zurich, Switzerland: {5.0, 1.0, 3.0, 5.0, 3.0}
+Bangkok, Thailand: {3.0, 4.0, 5.0, 3.0, 5.0}
+Las Vegas: {2.0, 2.0, 3.0, 3.0, 4.0}
+Miami: {2.0, 2.0, 4.0, 3.0, 4.0}
+Kuala Lumpur, Malaysia: {4.0, 3.0, 4.0, 4.0, 3.0}
+Venice, Italy: {2.0, 1.0, 5.0, 3.0, 3.0}
+Abu Dhabi, United Arab Emirates: {2.0, 2.0, 3.0, 5.0, 2.0}
+Stockholm, Sweden: {5.0, 1.0, 4.0, 4.0, 4.0}
+Brussels, Belgium: {4.0, 2.0, 3.0, 3.0, 3.0}
+Tel Aviv, Israel: {3.0, 2.0, 4.0, 3.0, 4.0}
+San Francisco: {3.0, 1.0, 4.0, 2.0, 4.0}
+Shanghai, China: {5.0, 3.0, 4.0, 4.0, 3.0}
+Warsaw, Poland: {4.0, 3.0, 3.0, 4.0, 4.0}
+Guangzhou, China: {4.0, 3.0, 3.0, 4.0, 2.0}
+Copenhagen, Denmark: {5.0, 1.0, 4.0, 4.0, 4.0}
+Nice, France: {3.0, 2.0, 3.0, 4.0, 3.0}
+Washington, United States: {3.0, 1.0, 4.0, 3.0, 3.0}
+Budapest, Hungary: {4.0, 4.0, 4.0, 4.0, 5.0}
+Shenzhen, China: {4.0, 3.0, 3.0, 4.0, 2.0}
+Vancouver, Canada: {3.0, 1.0, 4.0, 4.0, 3.0}
+Palma de Mallorca, Spain: {2.0, 2.0, 3.0, 4.0, 3.0}
+Seville, Spain: {3.0, 3.0, 4.0, 4.0, 4.0}
+São Paulo, Brazil: {3.0, 3.0, 5.0, 2.0, 5.0}
+Valencia, Spain: {4.0, 3.0, 4.0, 4.0, 4.0}
+Mexico City, Mexico: {3.0, 4.0, 5.0, 2.0, 4.0}
+Antalya, Turkey: {2.0, 3.0, 3.0, 3.0, 2.0}
+Sapporo, Japan: {3.0, 3.0, 3.0, 5.0, 2.0}
+Beijing, China: {5.0, 3.0, 5.0, 4.0, 3.0}
+Busan, South Korea:  {4.0, 3.0, 3.0, 5.0, 3.0}
+Fukuoka, Japan: {4.0, 3.0, 3.0, 5.0, 3.0}
+Edinburgh, United Kingdom: {3.0, 2.0, 4.0, 4.0, 4.0}
+Porto, Portugal: {3.0, 3.0, 3.0, 4.0, 4.0}
+Jerusalem, Israel: {2.0, 2.0, 5.0, 2.0, 2.0}
+Kraków, Poland: {3.0, 4.0, 4.0, 4.0, 5.0}
+Rio de Janeiro, Brazil: {2.0, 3.0, 5.0, 2.0, 5.0}
+Honolulu, Hawaii: {2.0, 1.0, 3.0, 3.0, 3.0}
+Montreal, Canada: {4.0, 2.0, 4.0, 4.0, 4.0}
+Macau: {3.0, 2.0, 3.0, 4.0, 2.0}
+Cancún, Mexico: {1.0, 2.0, 3.0, 3.0, 3.0}
+Marne-La-Vallée, France: {2.0, 1.0, 2.0, 4.0, 1.0}
+Doha, Qatar: {2.0, 2.0, 2.0, 5.0, 2.0}
+Sharjah, United Arab Emirates: {1.0, 2.0, 1.0, 5.0, 1.0}
+Rhodes, Greece: {1.0, 2.0, 3.0, 4.0, 2.0}
+Verona, Italy: {2.0, 2.0, 3.0, 4.0, 2.0}
+Bologna, Italy: {3.0, 2.0, 3.0, 4.0, 4.0}
+Thessaloniki, Greece: {2.0, 3.0, 3.0, 3.0, 4.0}
+Buenos Aires, Argentina: {3.0, 4.0, 5.0, 2.0, 5.0}
+Lima, Peru: {2.0, 3.0, 4.0, 2.0, 3.0}
+Phuket, Thailand: {1.0, 3.0, 3.0, 3.0, 3.0}
+Delhi, India: {2.0, 4.0, 4.0, 2.0, 3.0}
+Heraklion, Greece: {1.0, 2.0, 3.0, 4.0, 2.0}
+Tallinn, Estonia: {3.0, 3.0, 3.0, 4.0, 3.0}
+Pattaya-Chonburi, Thailand: {1.0, 3.0, 2.0, 2.0, 2.0}
+Ho Chi Minh City, Vietnam: {2.0, 4.0, 4.0, 3.0, 4.0}
+Playa Del Carmen, Mexico: {1.0, 2.0, 3.0, 2.0, 3.0}
+Johor Bahru, Malaysia: {1.0, 3.0, 1.0, 3.0, 1.0}
+Santiago, Chile: {3.0, 3.0, 3.0, 3.0, 3.0}
+Tbilisi, Georgia: {2.0, 4.0, 3.0, 3.0, 3.0}
+Riyadh, Saudi Arabia: {1.0, 2.0, 2.0, 3.0, 1.0}
+Marrakech, Morocco: {1.0, 3.0, 4.0, 2.0, 3.0}
+Vilnius, Lithuania: {3.0, 3.0, 2.0, 4.0, 3.0}
+Mugla, Turkey: {1.0, 3.0, 1.0, 3.0, 1.0}
+Zhuhai, China: {3.0, 3.0, 2.0, 4.0, 1.0}
+Mecca, Saudi Arabia: {1.0, 1.0, 1.0, 4.0, 1.0}
+Punta Cana, Dominican Republic: {1.0, 1.0, 2.0, 3.0, 2.0}
+Guilin, China: {1.0, 3.0, 3.0, 4.0, 1.0}
+Hanoi, Vietnam: {2.0, 4.0, 4.0, 3.0, 4.0}
+Cairo, Egypt: {2.0, 4.0, 5.0, 2.0, 3.0}
+Muscat, Oman: {1.0, 2.0, 2.0, 5.0, 1.0}
